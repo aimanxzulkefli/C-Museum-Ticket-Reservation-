@@ -7,7 +7,18 @@ After that the ticket will show the price for each person and the total price fo
 Not only that, the system also allow user to delete quantity of the ticket and the print the latest ticket. 
 
 ## Link for video tutorial
+  
+[![Uploading Youtube thumbnail.webp…](https://i.ytimg.com/an_webp/7VtjWC2ha0I/mqdefault_6s.webp?du=3000&sqp=CIiXipsG&rs=AOn4CLAO6mS4mh6HpPFjQ07nNQpr5H6B0w)](https://www.youtube.com/watch?v=7VtjWC2ha0I)
+  
+## Installation
 
-<p align="center">
-[![C-Museum-Ticket-Reservation-](https://img.youtube.com/vi/7VtjWC2ha0I)](https://www.youtube.com/watch?v=7VtjWC2ha0I)
-</p>
+1.  Open any platform that can run c++ language such Dev-C++ or Visual Studio Code
+2.  Copy the source code
+3.  Paste into the platform 
+4.  Run
+
+And it should show this ⬇️
+
+![image](https://user-images.githubusercontent.com/92250985/199533920-c03c001d-348d-46d6-9000-7757a1e8992a.png)
+
+
