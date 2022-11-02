@@ -9,5 +9,5 @@ Not only that, the system also allow user to delete quantity of the ticket and t
 ## Link for video tutorial
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7VtjWC2ha0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![C-Museum-Ticket-Reservation-](https://img.youtube.com/vi/7VtjWC2ha0I)](https://www.youtube.com/watch?v=7VtjWC2ha0I)
 </p>
